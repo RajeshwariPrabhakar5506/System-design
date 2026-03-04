@@ -1,0 +1,19 @@
+Prerequisites  
+Basic Understanding of 
+1. Object-Oriented Programming (OOP) 
+2. Python 
+3. SQL 
+System Requirements 
+• Intel i5 or better 
+• 16 GB RAM (recommended) 
+• Ubuntu 22.04 LTS or latest 
+Note: MacBook is also fine. 
+Required Software 
+• Python 3.11.9 
+• Pyenv 
+• Visual Studio Code/Cursor 
+• Git 
+• Postman / Insomnia 
+• Docker Desktop 
+Nice to have  
+Basic Knowledge of Prompt Engineering 
